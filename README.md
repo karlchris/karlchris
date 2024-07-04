@@ -1,4 +1,4 @@
-![linkedin header](linkedin%20header.png)
+![linkedin header](linkedin-header.png)
 
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">I write about Data Engineering | Data Warehouse | Analytics Engineering</h3>
